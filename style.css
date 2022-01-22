@@ -9,6 +9,7 @@
 .nav-bar{
     margin-top: 20px;
     overflow: auto;
+    height: fit-content;
 }
 .nav-list{
     text-decoration: none;
@@ -45,4 +46,11 @@ a.active{
     width: 25px;
     display: inline;
     float: right;
+}
+.logo{
+    width: 30px;
+    
+}
+.background-colors{
+    background: linear-gradient(120deg,#FFFF 65%,#F6B400 45%);
 }
