@@ -306,10 +306,10 @@ p{
 
 .fourth-page{
     background-color: #E1EBE6;
-    height: 900px;
+    height: 800px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-content: center;
     flex-wrap: nowrap;
     align-items: center;
@@ -320,23 +320,41 @@ p{
     
     color: #F6B400;
     font-size: 100px;
-    padding: 0px 10px 10px 150px;
+    padding: 0px 10px 10px 10px;
 
 }
 .the-double{
   
     font-size: 100px;
-    padding: 150px 10px 0px 150px;
+    padding: 150px 10px 0px 10px;
 }
 
 
 .small{
     
-    padding: 10px 10px 10px 150px;
+    padding: 10px 10px 10px 10px;
     font-size: 19px;
     color: grey;
 }
 .double-burger{
     float:right;
     width: 530px;
+}
+.fifth-page{
+    background-color: #F6B400;
+    height: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+.fifth-txt{
+    font-weight: 700;
+    font-size: 58px;
+}
+.first-side img{
+    width: 216px;
+    margin-top: 23px;
 }
