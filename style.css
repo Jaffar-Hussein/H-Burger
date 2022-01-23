@@ -164,7 +164,7 @@ p{
     /* object-position: center; */
 }
 .third-page{
-    height: 900px;
+    height: auto;
 }
 .cards-total{
     margin: 20px 20px 20px 20px;
