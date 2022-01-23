@@ -301,5 +301,34 @@ p{
     justify-content: left;
 }
 .glow{
-    box-shadow: 0 4px 8px 0 rgba(248, 4, 4, 0.4);
+    box-shadow: 0 4px 8px 0 #F6B400;
+}
+
+.fourth-page{
+    background-color: #E1EBE6;
+    height: 900px;
+
+}
+.yellow-decker{
+    
+    
+    color: #F6B400;
+    font-size: 100px;
+    padding: 0px 10px 10px 150px;
+
+}
+.the-double{
+  
+    font-size: 100px;
+    padding: 300px 10px 0px 150px;
+}
+
+.third-txt{
+    /* padding: 10px 10px 10px 10px; */
+}
+.small{
+    
+    padding: 10px 10px 10px 150px;
+    font-size: 19px;
+    color: grey;
 }
