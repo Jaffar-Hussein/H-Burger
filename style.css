@@ -387,3 +387,24 @@ p{
 .subscribe-txt{
     font-size: x-large;
 }
+.entry{
+    border: solid 3px #F6B400;
+    height: 32px;
+    width: 148px;
+    margin-left: 20px;
+}
+.button{
+    order: 3px black solid;
+    height: 32px;
+    width: 148px;
+    text-align: center;
+    background-color: #F6B400;
+}
+.email-sender{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
