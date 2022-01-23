@@ -307,6 +307,12 @@ p{
 .fourth-page{
     background-color: #E1EBE6;
     height: 900px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
 
 }
 .yellow-decker{
@@ -320,15 +326,17 @@ p{
 .the-double{
   
     font-size: 100px;
-    padding: 300px 10px 0px 150px;
+    padding: 150px 10px 0px 150px;
 }
 
-.third-txt{
-    /* padding: 10px 10px 10px 10px; */
-}
+
 .small{
     
     padding: 10px 10px 10px 150px;
     font-size: 19px;
     color: grey;
+}
+.double-burger{
+    float:right;
+    width: 530px;
 }
